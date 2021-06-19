@@ -1,0 +1,60 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    background: black;
+    height: 45px;
+}
+
+li {
+    list-style: none;
+    background: rgb(68, 0, 255);
+    float: right;
+    display: block;
+    margin: 8px;
+    margin-top: 15px;
+    color: white;
+    margin-left: 11px;
+    margin-right: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+li a:hover {
+    background: white;
+    color: blue;
+}
+
+header div p {
+    color: white;
+    margin-left: 30px;
+}
+
+.paragraf {
+    padding-top: 15px;
+}
+
+ .border{
+     float: flex;
+    border: 10px rgb(61, 61, 61) groove;
+    margin-top: 80px;
+    margin-left: 90px;
+    margin-right: 90px;
+    padding: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+
+   
+body {
+    background: url(../slike/Python_logo.jpg);
+}
